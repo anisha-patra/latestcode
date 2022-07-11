@@ -182,8 +182,7 @@ export default function SignInSide() {
                         <TextField
 
                             fullWidth
-                            name="name"
-                            label="name"
+
                             type="name"
                             id="name"
                             autoComplete="name"
