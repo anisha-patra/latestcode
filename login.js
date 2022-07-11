@@ -180,8 +180,7 @@ export default function SignInSide() {
                         />
 
                         <TextField
-                            margin="normal"
-                            required
+
                             fullWidth
                             name="name"
                             label="name"
